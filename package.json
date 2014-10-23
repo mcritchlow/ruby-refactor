@@ -1,0 +1,14 @@
+{
+  "name": "ruby-refactor",
+  "main": "./lib/ruby-refactor",
+  "version": "0.0.0",
+  "description": "An Atom port of Ruby Refactor",
+  "activationEvents": ["ruby-refactor:extract-to-method"],
+  "repository": "https://github.com/mcritchlow/ruby-refactor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
